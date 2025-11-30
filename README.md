@@ -15,5 +15,12 @@ Foram utilizadas 4 principais ferramentas para a execução deste trabalho:
 - Streamlit
 
 Apache Spark foi utilizado pela natureza dos dados, considerando um dataset com um contexto e volume coerentes para Big Data.
-Pandas foi utilizaado para o tratamento e manipulação dos datasets. 
-Matplotlib foi a biblioteca essencial para a criação dos gráficos presentes no trabalho.
+
+Pandas foi utilizaado para o tratamento e manipulação dos datasets. Se mostrou uma ótima ferraamenta para manipular a estrutura do dataset,
+mudar posição de colunas, adicionar aliases às colunas quando necessário, etc.
+
+Matplotlib foi a biblioteca essencial para a criação das visualizações e gráficos presentes no trabalho. Conseguimos fazer visualizações que retratassem
+de forma intuitiva os insights que acreditamos ser importantes, baseados no dataset.
+
+Utilizamos o Streamlit como uma forma mais prática e simples de mostrar os gráficos presentes no trabalho, não dependendo de um notebook para isto.
+
