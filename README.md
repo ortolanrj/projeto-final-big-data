@@ -32,16 +32,27 @@ As visualizações abordadas foram as seguintes:
 
 ### Vendas por região ao longo dos anos
 
+Achamos interessante apresentar o aspecto quantitativo das vendas feitas por cada região, tendo noção sobre quais regiões tem mais vendas de jogos em relação à outras.
+
 <img width="1164" height="707" alt="image" src="https://github.com/user-attachments/assets/0ad4d385-014d-4234-8404-dc7b82d045d1" />
 
-### Vendas Globais por Publisher ao longo dos anos
+### Vendas Globais por Publisher ao longo dos anos (Top 5)
+
+Neste caso, queríamos ter ideia de quais publisher tinham mais vendas. Decidimos reduzir o escopo para as 5 maiores, pois a quantidade de publishers presentes no dataset, é muito grande,
+ficando muito complicada à visualização de todas pela forma que gostaríamos de apresentar os dados.
 
 <img width="1164" height="707" alt="image" src="https://github.com/user-attachments/assets/5667106f-6a5e-4719-aeef-bcdf16f518c4" />
 
 ### Jogo mais vendido por Plataforma (Vendas Globais)
 
+Aqui decidimos fazer um layout um pouco diferente, com um gráfico em barras. O objetivo foi mostrar os jogos mais vendidos em cada plataforma. Foi possível fazer a ordenação decrescente dos dados,
+juntamente com um heatmap, deixando bem evidente qual jogo mais vendido, podendo olhar diretamente à qual plataforma tal jogo pertence.
+
 <img width="1389" height="789" alt="image" src="https://github.com/user-attachments/assets/31986246-93f9-4cba-86d8-b90022ac8a2a" />
 
 ### Publisher com mais vendas por Plataforma (Vendas Globais)
 
-<img width="1390" height="789" alt="image" src="https://github.com/user-attachments/assets/a1f4eaae-8e48-4e26-b61b-63f73c4d306d" />
+Neste caso, decidimos fazer algo semelhante ao gráfico anterior, porém pensando desta vez com o Publisher com mais vendas. Fica bem evidente assim, quem é a Publisher com o maior número histórico de vendas.
+Deixando claro também, qual plataforma que o maior número de vendas da Publisher se refere.
+
+<img width="1390" height="789" alt="image" src="https://github.com/user-attachments/assets/f6040f58-3277-4ce2-bcbc-d5b88b457d0a" />
